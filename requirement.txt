@@ -1,0 +1,4 @@
+-roboflow
+- opencv-python
+- numpy
+- Pillow

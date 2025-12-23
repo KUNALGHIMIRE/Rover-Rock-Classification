@@ -4,7 +4,7 @@
 
 \# Rover Rock Classification using Roboflow
 
-This project classifies rocks (Granite, Basalt, Sandstone,Marble,Quartzite,Limestone,Coal) using images captured by a rover. 
+This project classifies rocks (Granite, Basalt, Sandstone,Marble,Quartzite,Limestone,Coal) using images captured by a rover along with detecting the environmental condition like pressure,temperature,uvdetection,rainfall detection,altitude through various sensors.
 
 The model is trained using Roboflow and can be used for real-time prediction.
 

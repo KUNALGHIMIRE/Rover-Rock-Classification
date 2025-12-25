@@ -10,7 +10,7 @@ The model is trained using Roboflow and can be used for real-time prediction.
   [Rock Classification Dataset](https://www.kaggle.com/datasets/salmaneunus/rock-classification)
 - **Classes**: Granite, Basalt, Sandstone, Marble, Quartzite, Limestone, Coal
 - **Images per class**: 200–500
-- Used for **training and testing** the Roboflow model
+- Used for training and testing the Roboflow model
 
 The process used before training as follows:
 - Images were resized to 224x224 pixels

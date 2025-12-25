@@ -7,7 +7,7 @@ The model is trained using Roboflow and can be used for real-time prediction.
 **2.Dataset Information:**
 
 -The dataset used for this project is a publicly available rock classification dataset from Kaggle:  
-[Rock Classification Dataset](https://www.kaggle.com/datasets/salmaneunus/rock-classification)
+-[Rock Classification Dataset](https://www.kaggle.com/datasets/salmaneunus/rock-classification)
 -Classes:Granite, Basalt, Sandstone,Marble,Quartzite,Limestone,Coal
 -Images per class:200-500
 -Used for training and testing the Roboflow model

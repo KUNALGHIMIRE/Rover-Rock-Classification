@@ -5,7 +5,7 @@ This project classifies rocks (Granite, Basalt, Sandstone,Marble,Quartzite,Limes
 The model is trained using Roboflow and can be used for real-time prediction.
 
 **2.Dataset Information:**
-
+<pre>
 The dataset used for this project is a publicly available rock classification dataset from Kaggle:  
 \[Rock Classification Dataset](https://www.kaggle.com/datasets/salmaneunus/rock-classification)
 ->Classes:Granite, Basalt, Sandstone,Marble,Quartzite,Limestone,Coal
@@ -31,7 +31,7 @@ The process used before training as follows:
 
 
 
-
+</pre>
 
 
 
